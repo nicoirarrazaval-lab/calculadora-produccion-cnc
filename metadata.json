@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Tiempos de Producción - Impresión y Router CNC",
+  "description": "Sistema industrial para cálculo de tiempos de producción, cronograma y cuello de botella en impresión digital y corte router CNC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
